@@ -1,6 +1,6 @@
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 A simple webpack setup
+# Webpack setup
 
 This is a webpack setup project with eslint. You can use this as an initial setup for any
 project using webpack and eslint.
